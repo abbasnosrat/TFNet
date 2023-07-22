@@ -1,9 +1,9 @@
 
 # TFNet: Few-Shot Identification of LTI Systems Based On Convolutional Neural Networks
 
-This is the python implementation of the paper "TFNet: Few-Shot 
+This is the python implementation of the paper ["TFNet: Few-Shot 
 Identification of LTI Systems Based On
-Convolutional Neural Networks".
+Convolutional Neural Networks"](https://doi.org/10.1016/j.jprocont.2023.103034).
 
 TFNet takes the first 30 samples from the response of the system to an 18-sample long pulse
 and identifies the structure and parameters of the system's
